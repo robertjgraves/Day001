@@ -12,6 +12,7 @@ namespace Day001
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Robert was here.");
+            Console.WriteLine("Today is {0:d}", DateTime.Now);
             Console.ReadLine();
         }
     }
